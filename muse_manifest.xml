@@ -1,0 +1,29 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://hiveswap.droppages.com" resolutions="1x,2x" timestamp="1493790935923">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="456724862" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="business-wriggler.wav" crc="6174537" seo="true" mt="1493527153000"/>
+    <file name="here-comes-a-business-baby.wav" crc="346191429" seo="true" mt="1493331205000"/>
+    <file name="tetris-theme.wav" crc="3885933206" seo="true" mt="1493422037000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cvzxvzxvxzv.svg" crc="474543647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cvzxvzxvxzv_poster_.png" crc="4019305653" ref="index"/>
+    <file name="j1p9uy0.gif" crc="76772242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="366108015" seo="true" mt="1493786613898" redirect="true"/>
+</manifest>
